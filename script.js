@@ -62,10 +62,8 @@ function setRandomize() {
     }, 1000);
     
 }
-  setRandomize();
-
-
-
+setRandomize();
+  
 //Create Carousel OWL
 
 let span = document.getElementsByClassName("carousel-span");
